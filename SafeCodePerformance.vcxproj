@@ -38,6 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test_example_bad_code.cpp" />
+    <ClCompile Include="test_node.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
